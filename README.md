@@ -1,12 +1,21 @@
-# 👋 Salut, je suis Lidao Majoie Faya !
+# 👋 Salut, je suis Majoie Faya
 
-Bienvenue sur mon profil GitHub ! Je suis un étudiant passionné par la **data science**, le **développement full-stack** et l’**intelligence artificielle**. Actuellement, je poursuis un **Bachelor Universitaire de Technologie** à l'Université de Franche-Comté (IUT Belfort-Montbéliard), et je me spécialise dans l'analyse des données et l'optimisation des performances.
+🎯 Actuellement étudiant en Bachelor Universitaire de Technologie à l'IUT Nord Franche Comté, je construis une double expertise en ingénierie logicielle et ingénierie des données.
+Certifié Google Advanced Data Analytics, j’applique mes compétences au développement d’applications, à la gestion et à la visualisation des données, ainsi qu’à la modélisation prédictive et à la prise de décision.
+📍 Basé à Belfort — disponible à partir de septembre 2025 pour des alternances (1 sem. école / 3 sem. entreprise) et des missions Data partout en France, en présentiel ou à distance.
+
 
 ![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/my_picture.png?raw=true)
+![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/me.jpg?raw=true)
 
-## 🚀 Qui suis-je ?
+## 🧑‍💻 À propos de moi
 
-Je suis un **Data Analyst** et **Développeur Full-Stack** avec des compétences solides en **Python**, **SQL**, **Machine Learning**, ainsi qu’en **développement backend et frontend**. Mes projets portent principalement sur l’optimisation des performances, la gestion des données, et l'intégration de solutions IA pour résoudre des problèmes complexes.
+Je valorise la qualité du travail, qui reflète mon image, celle de l’entreprise et des projets.  
+À l’écoute et ouvert, je sais me remettre en question tout en restant sûr de mes convictions, favorisant ainsi une collaboration efficace.  
+
+Après un Bac Scientifique, j’ai obtenu une Licence Pro en Génie Logiciel, puis un Bachelor Universitaire de Technologie où j’ai renforcé mes compétences en développement et gestion de données.  
+Certifié Google Advanced Data Analytics, je poursuis un master à partir de septembre 2025, pour approfondir la data et l’IA, avec l’ambition de travailler en freelance ,dans une entreprise ou une startup innovante.
+
 
 Mon objectif est de continuer à apprendre, relever des défis techniques, et apporter des solutions innovantes dans les domaines de la **data science** et du **développement logiciel**.
 
