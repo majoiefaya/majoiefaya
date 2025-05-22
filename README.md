@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Majoie Faya
+# 👋 Salut, je suis FAYA Lidao Majoie
 
 🎯 Actuellement étudiant en Bachelor Universitaire de Technologie à l'IUT Nord Franche Comté, je construis une double expertise en ingénierie logicielle et ingénierie des données.
 Certifié Google Advanced Data Analytics, j’applique mes compétences au développement d’applications, à la gestion et à la visualisation des données, ainsi qu’à la modélisation prédictive et à la prise de décision.
