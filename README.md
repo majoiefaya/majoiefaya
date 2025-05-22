@@ -77,10 +77,10 @@ Développement d’une application de gestion comptable cross-plateforme, avec r
 
 <h3 align="center">• • •</h3>
 
-## 📊 Mes Statistiques GitHub
+## Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majoiefaya&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoiefaya&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majoiefaya&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoiefaya&layout=compact&theme=white)
 
 <h3 align="center">• • •</h3>
 
