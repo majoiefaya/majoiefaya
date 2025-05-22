@@ -48,7 +48,7 @@ Mon objectif est de continuer à apprendre, relever des défis techniques, et ap
 ![](https://img.shields.io/badge/Platform-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=007ACC)
 
 Pour consulter tous mes projets, consultez mon guide portfolio dédié :  
-👉 [Guide Portfolio](https://github.com/majoiefaya/mon-projet/blob/main/GUIDE_PORTFOLIO.md)
+👉 [Guide Portfolio](https://github.com/majoiefaya/Portofolio-Guide)
 
 ## 🎯 Expérience professionnelle
 
