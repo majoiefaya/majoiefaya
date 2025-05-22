@@ -5,8 +5,7 @@ Certifié Google Advanced Data Analytics, j’applique mes compétences au déve
 📍 Basé à Belfort — disponible à partir de septembre 2025 pour des alternances (1 sem. école / 3 sem. entreprise) et des missions Data partout en France, en présentiel ou à distance.
 
 
-![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/my_picture.png?raw=true)
-![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/me.jpeg?raw=true)
+![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/github_profile_picture.png?raw=true)
 
 ## 🧑‍💻 À propos de moi
 
