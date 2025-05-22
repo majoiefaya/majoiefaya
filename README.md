@@ -24,7 +24,8 @@
 🚀 **Mon ambition** : Devenir Data Scientist, travailler en freelance ou en entreprise, et concevoir des solutions innovantes pour exploiter le potentiel des données.
 
 - **Parcours** : Bac Scientifique, Licence Pro en Génie Logiciel, BUT en cours, et futur Master en Data & IA dès septembre 2025.
-- **Certifications** : Google Advanced Data Analytics Professional Certificate (Mars 2025).
+- **Google Advanced Data Analytics Professional Certificate**  
+  *Mars 2025* | [Voir sur Credly](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url) | [Voir sur Coursera](https://coursera.org/share/cdcc4aadee9f2a166c2ff74ca8981f9a)
 
 <h3 align="center">• • •</h3>
 
