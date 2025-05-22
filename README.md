@@ -18,9 +18,7 @@ Certifié Google Advanced Data Analytics, je poursuis un master à partir de sep
 
 Mon objectif est de continuer à apprendre, relever des défis techniques, et apporter des solutions innovantes dans les domaines de la **data science** et du **développement logiciel**.
 
-## 💼 Compétences
-
-## 🔧 Technologies & Tools
+## 🔧 Technologies & outils
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
@@ -92,12 +90,14 @@ Mon objectif est de continuer à apprendre, relever des défis techniques, et ap
 
 Je suis toujours ouvert à des collaborations intéressantes, que ce soit pour des projets open-source, des discussions techniques ou des opportunités professionnelles. N'hésite pas à me contacter via mes profils ou à ouvrir une discussion ici sur GitHub !
 
-## 📫 Me contacter
+## 🌐 Socials
 
-- **Email** : majoiefaya@gmail.com  
-- **LinkedIn** : [Lidao Majoie Faya](https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/)  
-- **GitHub** : [majoiefaya](https://github.com/majoiefaya)  
-- **Portfolio** : [Faya Lidao Majoie](https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/majoiefaya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:majoiefaya@gmail.com)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ton_profil) <!-- modifie ou retire si non utilisé -->
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@ton_profil) <!-- modifie ou retire si non utilisé -->
 
 ---
 
