@@ -47,24 +47,8 @@ Mon objectif est de continuer à apprendre, relever des défis techniques, et ap
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Platform-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=007ACC)
 
-
-## 📈 Projets
-
-### 1. **Prédiction de la production électrique des micro-turbines à gaz**  
-   - **Technologies utilisées** : Python (NumPy, Pandas, Scikit-learn, XGBoost, LightGBM)
-   - **Objectif** : Prédire la production d’électricité future en fonction de données temporelles et électriques.  
-   - **Résultats** : Modèle Multi-Layer Perceptron avec un R² de 0.9999 et MSE de 89.8137.  
-   - [Voir le projet sur GitHub](https://github.com/majoiefaya/Prediction_de_la_Production-electrique_des_Micro_Turbines_a_gaz)
-
-### 2. **Application Multiplateforme de Gestion de Comptabilité (ComptaProArt)**  
-   - **Technologies utilisées** : Django Rest Framework, Angular, MySQL
-   - **Objectif** : Développer une application de gestion comptable pour les artisans.  
-   - [Voir l'application](https://app.comptaproart.com/#/)
-
-### 3. **Développement d’un site web pour ONG (MWOMI)**  
-   - **Technologies utilisées** : WordPress, HTML/CSS, JavaScript
-   - **Objectif** : Création d'un site web pour une organisation à but non lucratif.  
-   - [Voir le projet](https://mwowmi.com/)
+Pour consulter tous mes projets, consultez mon guide portfolio dédié :  
+👉 [Guide Portfolio](https://github.com/majoiefaya/mon-projet/blob/main/GUIDE_PORTFOLIO.md)
 
 ## 🎯 Expérience professionnelle
 
