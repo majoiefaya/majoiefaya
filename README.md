@@ -1,158 +1,159 @@
-# 👋 Bienvenu à vous , je suis **FAYA Lidao Majoie**
-
-Étudiant en Bachelor Universitaire de Technologie à l'IUT Nord Franche Comté, je construis une double expertise en ingénierie logicielle et ingénierie des données.  
-Certifié Google Advanced Data Analytics, j’applique mes compétences au développement d’applications, à la gestion et à la visualisation des données, ainsi qu’à la modélisation prédictive et à la prise de décision.  
-📍 Basé à Belfort — disponible dès septembre 2025 pour alternance (1 sem. école / 3 sem. entreprise) et missions Data partout en France, en présentiel ou à distance.
-
 <p align="center">
-  <img src="https://github.com/majoiefaya/majoiefaya/raw/main/assets/github_profile.png" alt="Ma photo" width="400" style="border-radius: 10px;"/>
+  <img src="https://github.com/majoiefaya/majoiefaya/raw/main/assets/github_profile.png" alt="Photo de Lidao Majoie Faya" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </p>
 
-<h3 align="center">• • •</h3>
+<h1 align="center">👋 Bienvenue, je suis <strong>Lidao Majoie FAYA</strong></h1>
+<p align="center"><em>Étudiant en Bachelor Universitaire de Technologie | Passionné de Data Science & Ingénierie Logicielle</em></p>
+
+<p align="center">
+  <strong>📍 Belfort, France</strong> | Disponible dès <strong>septembre 2025</strong> pour une alternance (1 sem. école / 3 sem. entreprise) ou missions Data, en présentiel ou à distance.
+</p>
+
+<p align="center">
+  Certifié <strong>Google Advanced Data Analytics</strong> | Expert en développement d’applications, gestion de données, visualisation et modélisation prédictive.
+</p>
+
+<h3 align="center">✨ Qualité | Collaboration | Innovation ✨</h3>
+
+---
 
 ## 👤 À propos de moi
 
-Je valorise la **qualité du travail**, reflet de mon engagement personnel, de l’entreprise et des projets.  
-Je suis à l’écoute, ouvert, capable de me remettre en question tout en restant sûr de mes convictions, favorisant ainsi une collaboration efficace.  
+🎓 **Étudiant en BUT** à l’IUT Nord Franche-Comté, je développe une double expertise en **ingénierie logicielle** et **ingénierie des données**.  
+💡 **Mes valeurs** : Engagement, écoute, ouverture d’esprit et rigueur, pour des collaborations efficaces et des projets de qualité.  
+🚀 **Mon ambition** : Devenir Data Scientist, travailler en freelance ou en entreprise, et concevoir des solutions innovantes pour exploiter le potentiel des données.
 
-Après un Bac Scientifique, j’ai obtenu une Licence Pro en Génie Logiciel, puis un Bachelor Universitaire de Technologie où j’ai renforcé mes compétences en développement et gestion de données.  
-Certifié Google Advanced Data Analytics, je poursuis un master dès septembre 2025 pour approfondir la data et l’IA, avec l’ambition de travailler en freelance, en entreprise ou dans une startup innovante.
+- **Parcours** : Bac Scientifique, Licence Pro en Génie Logiciel, BUT en cours, et futur Master en Data & IA dès septembre 2025.
+- **Certifications** : Google Advanced Data Analytics Professional Certificate (Mars 2025).
 
 <h3 align="center">• • •</h3>
 
 ## 🎓 Formation
 
-**Septembre 2025 - Septembre 2027**  
-**Master en Data & Intelligence Artificielle**  
-Cette formation, que je débuterai en septembre 2025, me permettra de consolider mes compétences en data et intelligence artificielle, d’encadrer mon apprentissage dans ce domaine, et de réaliser mon projet professionnel : devenir Data Scientist au service des entreprises, des start-up et de ma créativité.
+### **Master en Data & Intelligence Artificielle**  
+*Septembre 2025 - Septembre 2027*  
+Formation visant à approfondir mes compétences en Data Science et IA, pour devenir un Data Scientist au service des entreprises et de l’innovation.
 
-**Août 2024 - Septembre 2025**  
-**Bachelor Universitaire de Technologie** — IUT Nord Franche-Comté  
-L’IUT Nord Franche-Comté m’a permis de consolider les compétences acquises à l’IPNET Institute of Technology, d’en acquérir de nouvelles et de renforcer mon expertise en développement, analyse et gestion des données.
+### **Bachelor Universitaire de Technologie**  
+*IUT Nord Franche-Comté | Août 2024 - Septembre 2025*  
+Consolidation de mes compétences en développement logiciel, analyse et gestion de données, avec une approche pratique et rigoureuse.
 
-**Septembre 2020 - Mai 2024**  
-**Licence en Génie Logiciel** — IPNET INSTITUTE OF TECHNOLOGY  
-IPNET a été un tournant majeur dans mon parcours professionnel, marquant le début de ma carrière en ingénierie informatique. Cette formation m'a apporté les bases essentielles et les compétences clés pour évoluer dans ce domaine qui me passionne. Alliant théorie solide et pratique rigoureuse, elle m'a permis de découvrir l’informatique sous toutes ses dimensions et de me préparer aux défis du secteur, en développant rigueur, curiosité et esprit d’analyse.
+### **Licence en Génie Logiciel**  
+*IPNET Institute of Technology | Septembre 2020 - Mai 2024*  
+Fondation de ma carrière en informatique, avec un équilibre entre théorie et pratique, développant ma rigueur, curiosité et esprit d’analyse.
 
 <h3 align="center">• • •</h3>
 
 ## 🎯 Objectifs
 
-- Devenir Data Scientist spécialisé en data et intelligence artificielle.  
-- Accompagner les entreprises et startups dans l’exploitation de leurs données.  
-- Concevoir des solutions analytiques innovantes et performantes.  
-- Développer ma créativité et mon autonomie dans des projets concrets.  
-- Travailler en freelance ou en entreprise dans un environnement stimulant.
+- 🧠 Devenir un **Data Scientist** spécialisé en data et intelligence artificielle.  
+- 📊 Accompagner les entreprises et startups dans l’exploitation de leurs données.  
+- 💻 Concevoir des solutions analytiques performantes et innovantes.  
+- 🌟 Développer ma créativité à travers des projets concrets.  
+- 🌍 Travailler en freelance ou en entreprise dans un environnement stimulant.
 
 <h3 align="center">• • •</h3>
 
 ## 💼 Expérience Professionnelle
 
-### Stagiaire en Développement d'applications | **ONDRH**  
+### **Stagiaire en Développement d'Applications** | ONDRH  
 *Février 2025 - Mai 2025 (2 mois)*  
 Participation au développement d’une application web et mobile en React et React Native.  
 **Missions :**  
-- Création de nouvelles pages pour les plateformes web et mobile.  
-- Résolution de bugs et optimisation du code existant.  
-- Gestion des problèmes de dépréciation et mise à jour de l’architecture.  
-- Migration vers une stack plus moderne.  
+- Création de nouvelles pages web et mobile.  
+- Résolution de bugs et optimisation du code.  
+- Mise à jour de l’architecture et migration vers une stack moderne.  
+**Technologies** : React.js, React Native, MongoDB, Mongoose ODM, Node.js.
 
-**Compétences renforcées :** React.js, React Native, MongoDB, Mongoose ODM, Node.js, développement mobile et web.
-
-<h3 align="center">• • •</h3>
-
-### Développeur Full-Stack | **DDM.A Solutions**  
+### **Développeur Full-Stack** | DDM.A Solutions  
 *Avril 2023 - Août 2024 (1 an 5 mois)*  
-Développement d'une application de gestion comptable cross-plateforme avec responsabilités complètes backend et frontend. Collaboration étroite avec l’équipe pour assurer la cohésion et la qualité du projet.  
-**Principales missions :**  
-- Analyse & Conception : Recueil des besoins utilisateurs, définition des objectifs et contraintes, modélisation UML (cas d’usage, classes, séquences) avec StarUML et Edraw Max.  
-- Développement Backend : Création d’API modulaires avec Django et Django REST Framework, implémentation de l’authentification JWT et gestion des accès sécurisés.  
-- Développement Frontend : Réalisation d’interfaces web responsives avec Angular, optimisation des performances via lazy loading et RxJS, utilisation de Bootstrap pour la cohérence visuelle.  
-- Gestion de base de données : Conception et optimisation sous MySQL, normalisation des données.
-
-**Technologies :** StarUML, Edraw Max, Django, Django REST Framework, JWT, Angular, lazy loading, RxJS, Bootstrap, MySQL.
+Développement d’une application de gestion comptable cross-plateforme, avec responsabilités complètes sur le backend et frontend.  
+**Missions :**  
+- Analyse et conception (recueil des besoins, modélisation UML avec StarUML et Edraw Max).  
+- Backend : APIs modulaires avec Django, authentification JWT, gestion sécurisée des accès.  
+- Frontend : Interfaces responsives avec Angular, optimisation via lazy loading et RxJS.  
+- Base de données : Conception et optimisation avec MySQL.  
+**Technologies** : Django, Django REST Framework, Angular, MySQL, Bootstrap, JWT.
 
 <h3 align="center">• • •</h3>
 
-## 🛠️ Technologies & outils
+## 📊 Mes Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majoiefaya&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoiefaya&layout=compact&theme=dark)
+
+<h3 align="center">• • •</h3>
+
+## 🛠️ Technologies & Outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
   <br/>
-  <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/SpringBoot-007ACC?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Laravel-007ACC?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Symfony-007ACC?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
   <br/>
-  <img src="https://img.shields.io/badge/Pandas-007ACC?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-007ACC?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit-learn-007ACC?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-007ACC?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-007ACC?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Cassandra-007ACC?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra"/>
-  <img src="https://img.shields.io/badge/Redis-007ACC?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
   <br/>
-  <img src="https://img.shields.io/badge/Power_BI-007ACC?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-007ACC?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <br/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PyCharm-007ACC?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/Streamlit-007ACC?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 <h3 align="center">• • •</h3>
 
 ## 📈 Projets
 
-Pour découvrir tous mes projets, consultez mon guide portfolio dédié :  
-👉 [Guide Portfolio](https://github.com/majoiefaya/Portofolio-Guide)
+Découvrez mes projets dans mon portfolio dédié :  
+👉 [**Guide Portfolio**](https://github.com/majoiefaya/Portofolio-Guide)
 
 <h3 align="center">• • •</h3>
 
 ## 🏆 Certifications
 
-- **Google Advanced Data Analytics Professional Certificate** (Mars 2025)  
-  [Voir le certificat](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url)
+- **Google Advanced Data Analytics Professional Certificate**  
+  *Mars 2025* | [Voir le certificat](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url)
 
 <h3 align="center">• • •</h3>
 
 ## 🤝 Contact & Collaborations
 
-Je suis ouvert à des collaborations, projets open-source, et opportunités professionnelles.  
-N'hésitez pas à me contacter ou ouvrir une discussion ici sur GitHub !
-
-<h3 align="center">• • •</h3>
-
-## 🌐 Mes réseaux
+📬 **Je suis ouvert à des collaborations, projets open-source et opportunités professionnelles !**  
+N’hésitez pas à me contacter via GitHub ou mes réseaux.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/majoiefaya" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30" />
+  <a href="https://github.com/majoiefaya" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Portfolio" width="30" height="30" />
+  <a href="https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:majoiefaya@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="30" height="30" />
+  <a href="mailto:majoiefaya@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <h3 align="center">• • •</h3>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=majoiefaya.majoiefaya"  />
-</div>
 
-Merci de visiter mon profil GitHub, et à bientôt pour des collaborations !
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=majoiefaya.majoiefaya" alt="Visitor Badge"/>
+</p>
+
+<p align="center">
+  <strong>Merci de visiter mon profil GitHub ! À bientôt pour de futures collaborations 🚀</strong>
+</p>
