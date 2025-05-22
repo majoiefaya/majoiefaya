@@ -6,7 +6,7 @@ Certifié Google Advanced Data Analytics, j’applique mes compétences au déve
 
 
 ![Ma photo](https://github.com/majoiefaya/majoiefaya/blob/main/assets/github_profile_picture.png?raw=true)
-<img src="https://github.com/majoiefaya/majoiefaya/blob/main/assets/github_profile_picture.png?raw=true" alt="Ma photo" height="250" />
+<img src="https://github.com/majoiefaya/majoiefaya/blob/main/assets/github_profile_picture.png?raw=true" alt="Ma photo" width="1280" height="250" />
 
 ## 🧑‍💻 À propos de moi
 
