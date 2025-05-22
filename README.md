@@ -8,7 +8,7 @@ Certifié Google Advanced Data Analytics, j’applique mes compétences au déve
   <img src="https://github.com/majoiefaya/majoiefaya/raw/main/assets/github_profile_picture.png" alt="Ma photo" width="500" style="border-radius: 10px;"/>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## 👤 À propos de moi
 
@@ -18,7 +18,7 @@ Je suis à l’écoute, ouvert, capable de me remettre en question tout en resta
 Après un Bac Scientifique, j’ai obtenu une Licence Pro en Génie Logiciel, puis un Bachelor Universitaire de Technologie où j’ai renforcé mes compétences en développement et gestion de données.  
 Certifié Google Advanced Data Analytics, je poursuis un master dès septembre 2025 pour approfondir la data et l’IA, avec l’ambition de travailler en freelance, en entreprise ou dans une startup innovante.
 
----
+<h3 align="center">• • •</h3>
 
 ## 🎓 Formation
 
@@ -34,7 +34,7 @@ L’IUT Nord Franche-Comté m’a permis de consolider les compétences acquises
 **Licence en Génie Logiciel** — IPNET INSTITUTE OF TECHNOLOGY  
 IPNET a été un tournant majeur dans mon parcours professionnel, marquant le début de ma carrière en ingénierie informatique. Cette formation m'a apporté les bases essentielles et les compétences clés pour évoluer dans ce domaine qui me passionne. Alliant théorie solide et pratique rigoureuse, elle m'a permis de découvrir l’informatique sous toutes ses dimensions et de me préparer aux défis du secteur, en développant rigueur, curiosité et esprit d’analyse.
 
----
+<h3 align="center">• • •</h3>
 
 ## 🎯 Objectifs
 
@@ -44,7 +44,7 @@ IPNET a été un tournant majeur dans mon parcours professionnel, marquant le d�
 - Développer ma créativité et mon autonomie dans des projets concrets.  
 - Travailler en freelance ou en entreprise dans un environnement stimulant.
 
----
+<h3 align="center">• • •</h3>
 
 ## 💼 Expérience Professionnelle
 
@@ -59,7 +59,7 @@ Participation au développement d’une application web et mobile en React et Re
 
 **Compétences renforcées :** React.js, React Native, MongoDB, Mongoose ODM, Node.js, développement mobile et web.
 
----
+<h3 align="center">• • •</h3>
 
 ### Développeur Full-Stack | **DDM.A Solutions**  
 *Avril 2023 - Août 2024 (1 an 5 mois)*  
@@ -72,7 +72,7 @@ Développement d'une application de gestion comptable cross-plateforme avec resp
 
 **Technologies :** StarUML, Edraw Max, Django, Django REST Framework, JWT, Angular, lazy loading, RxJS, Bootstrap, MySQL.
 
----
+<h3 align="center">• • •</h3>
 
 ## 🛠️ Technologies & outils
 
@@ -110,28 +110,28 @@ Développement d'une application de gestion comptable cross-plateforme avec resp
   <img src="https://img.shields.io/badge/Streamlit-007ACC?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
----
+<h3 align="center">• • •</h3>
 
 ## 📈 Projets
 
 Pour découvrir tous mes projets, consultez mon guide portfolio dédié :  
 👉 [Guide Portfolio](https://github.com/majoiefaya/Portofolio-Guide)
 
----
+<h3 align="center">• • •</h3>
 
 ## 🏆 Certifications
 
 - **Google Advanced Data Analytics Professional Certificate** (Mars 2025)  
   [Voir le certificat](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url)
 
----
+<h3 align="center">• • •</h3>
 
 ## 🤝 Contact & Collaborations
 
 Je suis ouvert à des collaborations, projets open-source, et opportunités professionnelles.  
 N'hésitez pas à me contacter ou ouvrir une discussion ici sur GitHub !
 
----
+<h3 align="center">• • •</h3>
 
 ## 🌐 Mes réseaux
 
@@ -150,6 +150,9 @@ N'hésitez pas à me contacter ou ouvrir une discussion ici sur GitHub !
   </a>
 </p>
 
----
+<h3 align="center">• • •</h3>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=majoiefaya.majoiefaya"  />
+</div>
 
 Merci de visiter mon profil GitHub, et à bientôt pour des collaborations !
