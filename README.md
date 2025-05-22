@@ -20,6 +20,8 @@ Mon objectif est de continuer à apprendre, relever des défis techniques, et ap
 
 ## 🔧 Technologies & outils
 
+## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
@@ -46,6 +48,7 @@ Mon objectif est de continuer à apprendre, relever des défis techniques, et ap
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Platform-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
+
 
 
 ## 📈 Projets
