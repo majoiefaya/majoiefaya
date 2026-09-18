@@ -1,173 +1,104 @@
-<p align="center">
-  <img src="https://github.com/majoiefaya/majoiefaya/raw/main/assets/github_profile.png" alt="Photo de Lidao Majoie Faya" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Bienvenue, je suis <strong>Lidao Majoie FAYA</strong></h1>
-<p align="center"><em>Étudiant en Bachelor Universitaire de Technologie | Passionné de Data Science & Ingénierie Logicielle</em></p>
+<img src="https://github.com/majoiefaya/majoiefaya/raw/main/assets/github_profile.png" width="120" style="border-radius:50%"/>
 
-<p align="center">
-  <strong>📍 Belfort, France</strong> | Disponible dès <strong>septembre 2025</strong> pour une alternance (1 sem. école / 3 sem. entreprise) ou missions Data, en présentiel ou à distance.
-</p>
+<br/>
 
-<p align="center">
-  Certifié <strong>Google Advanced Data Analytics</strong> | Expert en développement d’applications, gestion de données, visualisation et modélisation prédictive.
-</p>
+# Lidao Majoie FAYA
 
-<h3 align="center">✨ Qualité | Collaboration | Innovation ✨</h3>
+**Élève Ingénieur · Logiciel, Data & Intelligence Artificielle**
+
+Limoges, France · [majoiefaya@gmail.com](mailto:majoiefaya@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/) · [Portfolio Dev](https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/)
+
+</div>
 
 ---
 
-## 👤 À propos de moi
+Étudiant en 1ʳᵉ année de cycle **Ingénieur Informatique à 3iL Ingénieurs (Limoges)**, je construis une double expertise en développement logiciel et en data & IA à travers des expériences académiques et professionnelles concrètes. Je suis à la recherche d'une **alternance à partir de septembre 2026** (1 semaine école / 3 semaines entreprise).
 
-🎓 **Étudiant en BUT** à l’IUT Nord Franche-Comté, je développe une double expertise en **ingénierie logicielle** et **ingénierie des données**.  
-💡 **Mes valeurs** : Engagement, écoute, ouverture d’esprit et rigueur, pour des collaborations efficaces et des projets de qualité.  
-🚀 **Mon ambition** : Devenir Data Scientist, travailler en freelance ou en entreprise, et concevoir des solutions innovantes pour exploiter le potentiel des données.
+---
 
-- **Parcours** : Bac Scientifique, Licence Pro en Génie Logiciel, BUT en cours, et futur Master en Data & IA dès septembre 2025.
-- **Google Advanced Data Analytics Professional Certificate**  
-  *Mars 2025* | [Voir sur Credly](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url) | [Voir sur Coursera](https://coursera.org/share/cdcc4aadee9f2a166c2ff74ca8981f9a)
+## Formation
 
-<h3 align="center">• • •</h3>
+```
+3iL Ingénieurs — Limoges              Cycle Ingénieur Informatique       Sept. 2026 → Juin 2029
+IUT Nord Franche-Comté — Belfort      BUT Informatique                   Août 2024 → Sept. 2025
+IPNET Institute of Technology — Lomé  Licence Pro Génie Logiciel         Sept. 2020 → Mai 2023
+```
 
-## 🎓 Formation
+---
 
-### **Master en Data & Intelligence Artificielle**  
-*Septembre 2025 - Septembre 2027*  
-Formation visant à approfondir mes compétences en Data Science et IA, pour devenir un Data Scientist au service des entreprises et de l’innovation.
+## Expériences
 
-### **Bachelor Universitaire de Technologie**  
-*IUT Nord Franche-Comté | Août 2024 - Septembre 2025*  
-Consolidation de mes compétences en développement logiciel, analyse et gestion de données, avec une approche pratique et rigoureuse.
+**Stage Développeur Fullstack** — IUT Nord Franche-Comté, Belfort · *Juin – Août 2025*
+> Application web d'évaluation pédagogique pour enseignants · Builder de formulaires dynamiques (critères configurables, notation mixte) · SPA **Vue.js / Vue Router / Pinia / Vuetify** · Backend **Node.js/Express** + **MongoDB**
 
-### **Licence en Génie Logiciel**  
-*IPNET Institute of Technology | Septembre 2020 - Mai 2024*  
-Fondation de ma carrière en informatique, avec un équilibre entre théorie et pratique, développant ma rigueur, curiosité et esprit d’analyse.
+**Stage Développeur Frontend** — ONDRH, Paris · *Fév. – Mai 2025*
+> Optimisation d'une app **React / React Native** existante · Migration vers une architecture moderne · Amélioration des performances et de l'accessibilité
 
-<h3 align="center">• • •</h3>
+**CDD Développeur Fullstack** — DDM.A, Lomé · *Jan. – Août 2024*
+> Mise en production de **COMPTAPROART** · Audit sécurité CDA (Cyber Defense Africa) · Pipeline **CI/CD** · Collecte retours utilisateurs & maintenance évolutive
 
-## 🎯 Objectifs
+**Stage Développeur Fullstack** — DDM.A, Lomé · *Avr. – Sept. 2023*
+> Conception & développement from scratch de COMPTAPROART · APIs sécurisées **Django REST** · Frontend **Angular** (lazy loading, RxJS) · Sécurisation XSS/CSRF/injections SQL
 
-- 🧠 Devenir un **Data Scientist** spécialisé en data et intelligence artificielle.  
-- 📊 Accompagner les entreprises et startups dans l’exploitation de leurs données.  
-- 💻 Concevoir des solutions analytiques performantes et innovantes.  
-- 🌟 Développer ma créativité à travers des projets concrets.  
-- 🌍 Travailler en freelance ou en entreprise dans un environnement stimulant.
+---
 
-<h3 align="center">• • •</h3>
+## Compétences
 
-## 💼 Expérience Professionnelle
+| Domaine | Technologies |
+|---------|-------------|
+| **Langages** | Python · Java · Kotlin · JavaScript · TypeScript · SQL · PHP |
+| **Backend** | Spring Boot · Django · Django REST · Node.js · Express · Microservices |
+| **Frontend** | Angular · Vue.js · React · React Native · Vite |
+| **Data & IA** | Pandas · NumPy · Scikit-learn · Matplotlib · Keras · ML · Réseaux de neurones |
+| **Bases de données** | MySQL · MongoDB · PostgreSQL · SQLite · Cassandra · Redis |
+| **Outils** | Git · GitHub · GitLab · Docker · Power BI · Tableau · Jupyter |
 
-### **Stagiaire en Développement d'Applications** | ONDRH  
-*Février 2025 - Mai 2025 (2 mois)*  
-Participation au développement d’une application web et mobile en React et React Native.  
-**Missions :**  
-- Création de nouvelles pages web et mobile.  
-- Résolution de bugs et optimisation du code.  
-- Mise à jour de l’architecture et migration vers une stack moderne.  
-**Technologies** : React.js, React Native, MongoDB, Mongoose ODM, Node.js.
+---
 
-### **Développeur Full-Stack** | DDM.A Solutions  
-*Avril 2023 - Août 2024 (1 an 5 mois)*  
-Développement d’une application de gestion comptable cross-plateforme, avec responsabilités complètes sur le backend et frontend.  
-**Missions :**  
-- Analyse et conception (recueil des besoins, modélisation UML avec StarUML et Edraw Max).  
-- Backend : APIs modulaires avec Django, authentification JWT, gestion sécurisée des accès.  
-- Frontend : Interfaces responsives avec Angular, optimisation via lazy loading et RxJS.  
-- Base de données : Conception et optimisation avec MySQL.  
-**Technologies** : Django, Django REST Framework, Angular, MySQL, Bootstrap, JWT.
+## Projets Data Science
 
-<h3 align="center">• • •</h3>
+**Stabilisation de drone** — Régression · R² = 0.98, MSE = 0.001
+
+**Détection d'intrusions** — Classification d'attaques réseau via modèle prédictif
+
+**Prédiction énergétique** — MLP · XGBoost · Random Forest · LightGBM · CatBoost
+
+**Test A/B revenus** — Analyse sur 5 000 utilisateurs · +12 % de revenus (p < 0.01)
+
+> Voir l'ensemble de mes projets → **[Portfolio Guide](https://github.com/majoiefaya/Portofolio-Guide)**
+
+---
+
+## Certifications
+
+| Certification | Organisme | Date |
+|--------------|-----------|------|
+| Machine Learning with Python | IBM / Coursera | Jan. – Fév. 2026 |
+| Advanced Data Analytics Professional | Google / Coursera | Jan. – Mars 2025 |
+| AWS Cloud Technical Essentials | AWS / Coursera | Mars 2025 |
+| Introduction to VueJS Framework | Codio / Coursera | Juin 2025 |
+
+---
 
 ## Statistiques GitHub
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=majoiefaya&show_icons=true&theme=white" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoiefaya&layout=compact&theme=white" alt="Top Langs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majoiefaya&theme=white" alt="GitHub Streak"/>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=majoiefaya&show_icons=true&theme=default&hide_border=true&hide_title=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoiefaya&layout=compact&theme=default&hide_border=true"/>
 </div>
 
-<h3 align="center">• • •</h3>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majoiefaya&theme=default&hide_border=true"/>
+</div>
 
-## 🛠️ Technologies & Outils
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+<div align="center">
 
-<h3 align="center">• • •</h3>
+Français C2 · Anglais B2 · Formule 1 & simulation · Histoire & philosophie · Écriture, chant et dessin
 
-## 📈 Projets
+*Ouvert aux collaborations open-source et aux opportunités d'alternance.*
 
-Découvrez mes projets dans mon portfolio dédié :  
-👉 [**Guide Portfolio**](https://github.com/majoiefaya/Portofolio-Guide)
-
-<h3 align="center">• • •</h3>
-
-## 🏆 Certifications
-
-- **Google Advanced Data Analytics Professional Certificate**  
-  *Mars 2025* | [Voir le certificat](https://www.credly.com/badges/26cfa855-c189-4809-aa98-8c137b093e4e/public_url)
-
-<h3 align="center">• • •</h3>
-
-## 🤝 Contact & Collaborations
-
-📬 **Je suis ouvert à des collaborations, projets open-source et opportunités professionnelles !**  
-N’hésitez pas à me contacter via GitHub ou mes réseaux.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/majoiefaya" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://majoiefaya.github.io/Portfolio-Lidao-Majoie-Faya/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:majoiefaya@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<h3 align="center">• • •</h3>
-
-## ☕ Me soutenir
-
-<p align="center">
-  <a href="https://buymeacoffee.com/majoiefaya" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-</p>
-
-<h3 align="center">• • •</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=majoiefaya.majoiefaya" alt="Visitor Badge"/>
-</p>
-
-<p align="center">
-  <strong>Merci de visiter mon profil GitHub ! À bientôt pour de futures collaborations 🚀</strong>
-</p>
+</div>
