@@ -1,41 +1,13 @@
-<!-- Profil GitHub : majoiefaya. Images dynamiques fournies par des services tiers. -->
+<!-- En-tête animé : rendu du modèle 3D personnel. -->
 
-<div align="center">
-<img src="assets/readme/banner.svg" width="100%" alt="Bannière de présentation de Lidao Majoie FAYA" />
-<img src="assets/model3d/majoie-3d-turntable.gif" width="300" alt="Modèle 3D animé de Lidao Majoie Faya" />
-<h1>Lidao Majoie FAYA</h1>
-<h3>Élève ingénieur · Logiciel, Data &amp; IA</h3>
-<p>Du besoin métier à l’application. Des données à la décision.</p>
-<a href="https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://majoiefaya.github.io/dev-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio développement" />
-</a>
-<a href="https://www.datascienceportfol.io/majoiefaya">
-<img src="https://img.shields.io/badge/Portfolio_Data-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" alt="Portfolio Data Science" />
-</a>
-<a href="mailto:majoiefaya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-<p><a href="https://github.com/majoiefaya/majoiefaya/raw/refs/heads/main/assets/cv/CV-Lidao-Majoie-FAYA-2026.pdf"><strong>Télécharger mon CV · PDF</strong></a></p>
+<p align="center">
+<img src="assets/readme/hero-editorial.gif" width="100%" alt="Lidao Majoie FAYA — Élève ingénieur à 3iL, développement logiciel, Data et IA. Portrait 3D animé devant mon nom." />
+</p>
+<p align="right">
+<a href="#profil">Profil</a> &nbsp; / &nbsp; <a href="#projets">Projets</a> &nbsp; / &nbsp; <a href="#experience">Expériences</a> &nbsp; / &nbsp; <a href="#parcours">Parcours</a> &nbsp; / &nbsp; <a href="#contact">Contact</a>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=888888&center=true&vCenter=true&width=760&lines=Je+con%C3%A7ois+des+applications+logicielles+robustes;J%27int%C3%A8gre+la+Data+et+l%27IA+dans+des+solutions+concr%C3%A8tes;Python+%E2%80%A2+Java+%E2%80%A2+JavaScript+%E2%80%A2+Machine+Learning" alt="Présentation animée" />
-<p>
-<strong>Limoges, France</strong><br/>
-À la recherche d'une <strong>alternance dès septembre 2026</strong> en développement logiciel, Data ou IA.
+<a href="https://www.linkedin.com/in/lidao-majoie-faya-064ba622a/">LinkedIn ↗</a> &nbsp; &nbsp; <a href="https://majoiefaya.github.io/dev-portfolio/">Portfolio ↗</a> &nbsp; &nbsp; <a href="https://www.datascienceportfol.io/majoiefaya">Data ↗</a> &nbsp; &nbsp; <a href="mailto:majoiefaya@gmail.com">Email ↗</a> &nbsp; &nbsp; <a href="https://github.com/majoiefaya/majoiefaya/raw/refs/heads/main/assets/cv/CV-Lidao-Majoie-FAYA-2026.pdf"><strong>Mon CV ↓</strong></a>
 </p>
-<p><sub>QUALITÉ &nbsp; / &nbsp; COLLABORATION &nbsp; / &nbsp; INNOVATION</sub></p>
-<br/>
-<p>
-<a href="#profil">Profil</a> &nbsp; · &nbsp;
-<a href="#stack">Technologies</a> &nbsp; · &nbsp;
-<a href="#experience">Expériences</a> &nbsp; · &nbsp;
-<a href="#projets">Projets</a> &nbsp; · &nbsp;
-<a href="#parcours">Parcours</a> &nbsp; · &nbsp;
-<a href="#contact">Contact</a>
-</p>
-</div>
 
 ---
 
