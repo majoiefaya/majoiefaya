@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<title>Lidao Majoie FAYA — Élève ingénieur · Logiciel · Data · IA</title>
+<defs><linearGradient id="g"><stop stop-color="#050505"/><stop offset="1" stop-color="#353535"/></linearGradient></defs>
+<rect width="1200" height="250" fill="url(#g)"/>
+<g fill="none" stroke="#fff" opacity=".1"><circle cx="1080" cy="35" r="130"/><circle cx="1080" cy="35" r="95"/></g>
+<g fill="white" text-anchor="middle" font-family="Arial,Helvetica,sans-serif">
+<text x="600" y="105" font-size="44" font-weight="700">Lidao Majoie FAYA<animate attributeName="opacity" values=".55;1;.55" dur="7s" repeatCount="indefinite"/></text>
+<text x="600" y="148" font-size="20" fill="#dedede">Élève ingénieur · Logiciel · Data · IA</text>
+</g>
+<path fill="#aaa" opacity=".35" d="M0 203 Q300 160 600 211 T1200 195 V250 H0Z"><animate attributeName="d" values="M0 203 Q300 160 600 211 T1200 195 V250 H0Z;M0 190 Q300 230 600 195 T1200 217 V250 H0Z;M0 203 Q300 160 600 211 T1200 195 V250 H0Z" dur="9s" repeatCount="indefinite"/></path>
+<path fill="#fff" d="M0 221 Q300 189 600 229 T1200 218 V250 H0Z"/>
+</svg>
